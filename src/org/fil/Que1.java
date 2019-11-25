@@ -9,7 +9,7 @@ public class Que1 {
 	public static void main(String[] args) throws Throwable {
 		File f=new File("D:\\indu");
 		boolean b = f.mkdir();
-		System.out.println(b);
+		System.out.println("aq");
 	}
 
 }
